@@ -23,6 +23,7 @@ The following initial steps were taken:
 [FNG Starter Notebook](Starter_Code/lstm_stock_predictor_fng.ipynb)
 
 - - -
+<img src="https://user-images.githubusercontent.com/83671629/129913577-20f3e400-504b-4f93-9754-4dd319e01074.jpg"  width="400" height="400">
 
 ## Procedure
 
