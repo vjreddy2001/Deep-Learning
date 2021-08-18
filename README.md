@@ -2,7 +2,7 @@
 # Deep-Learning
 # LSTM Stock Predictor
 
-![Banner_Deep_learning](https://user-images.githubusercontent.com/83671629/129911177-8c99be98-9792-4aa0-aae7-1980dd2974ac.jpg)
+![Banner_Deep_learning](Images/Banner_Deep_learning.jpg)
 
 Due to the volatility of cryptocurrency speculation, investors will often try to incorporate sentiment from social media and news articles to help guide their trading strategies. One such indicator is the [Crypto Fear and Greed Index (FNG)](https://alternative.me/crypto/fear-and-greed-index/) which attempts to use a variety of data sources to produce a daily FNG value for cryptocurrency. In this tool I have tried to help build and evaluate deep learning models using both the FNG values and simple closing prices to determine if the FNG indicator provides a better signal for cryptocurrencies than the normal closing price data.
 
@@ -10,17 +10,18 @@ In this Tool, I have used deep learning recurrent neural networks to model bitco
 
 The following initial steps were taken:
 
-1. [Prepare the data for training and testing](#prepare-the-data-for-training-and-testing)
-2. [Build and train custom LSTM RNNs](#build-and-train-custom-lstm-rnns)
+
+1. [Prepare the data for training and testing](#preparing-the-data-for-training-and-testing)
+2. [Build and train custom LSTM RNNs](#building-and-training-custom-lstm-rnns)
 3. [Evaluate the performance of each model](#evaluate-the-performance-of-each-model)
 
 - - -
 
 ### Files
 
-[Closing Prices Starter Notebook](Starter_Code/lstm_stock_predictor_closing.ipynb)
+[Closing Prices Notebook](Starter_Code/lstm_stock_predictor_closing.ipynb)
 
-[FNG Starter Notebook](Starter_Code/lstm_stock_predictor_fng.ipynb)
+[FNG Notebook](Starter_Code/lstm_stock_predictor_fng.ipynb)
 
 - - -
 <img src="https://user-images.githubusercontent.com/83671629/129913577-20f3e400-504b-4f93-9754-4dd319e01074.jpg"  width="400" height="400">
@@ -60,6 +61,8 @@ The above info was used to answer the following:
 > Which window size works best for the model?
 
 - - -
+### Fun Facts 
+![Fun Fact](Images/fun_fact.jpg)
 
 ### Resources
 
