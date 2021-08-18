@@ -61,8 +61,6 @@ The above info was used to answer the following:
 > Which window size works best for the model?
 
 - - -
-### Fun Facts 
-![Fun Fact](Images/fun_fact.jpg)
 
 ### Resources
 
