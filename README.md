@@ -1,6 +1,6 @@
 
 # Deep-Learning
-# LSTM Stock Predictor
+# LSTM Stock Predictor (Long Short Term Memory)
 
 ![Banner_Deep_learning](Images/Banner_Deep_learning.jpg)
 
