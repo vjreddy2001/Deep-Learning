@@ -55,10 +55,13 @@ Finally, used the testing data to evaluate each model and compare the performanc
 The above info was used to answer the following:
 
 > Which model has a lower loss?
+  The model using Closing price has a low loss value of 0.0047 (with 10 epoch)
 >
 > Which model tracks the actual values better over time?
+> Model using the closing price tracks better with the actual values
 >
 > Which window size works best for the model?
+> The closing price model works best with a window size =1
 
 - - -
 
