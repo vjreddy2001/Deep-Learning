@@ -50,18 +50,24 @@ The same parameters and training steps were used for each model. This is necessa
 
 ### Evaluate the performance of each model
 
-Finally, used the testing data to evaluate each model and compare the performance.
+Finally, I used the testing data to evaluate each model and compare the performance.
+![plot](Images/plot-close-price.png)
+![plot](Images/plot-fng.png)
+
 
 The above info was used to answer the following:
 
 > Which model has a lower loss?
+  
   The model using Closing price has a low loss value of 0.0047 (with 10 epoch)
 >
 > Which model tracks the actual values better over time?
-> Model using the closing price tracks better with the actual values
+  
+  Model using the closing price tracks better with the actual values
 >
 > Which window size works best for the model?
-> The closing price model works best with a window size =1
+  
+  The closing price model works best with a window size =1
 
 - - -
 
